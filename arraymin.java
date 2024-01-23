@@ -11,7 +11,7 @@ public class arraymin {
                 res = min;
             }
         }
-        System.out.println("El valor mínimo es "+res);
+        System.out.println("El valor mínimo es ");
 <<<<<<< HEAD
         System.out.println("Prueba main error");
 =======
