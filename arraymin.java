@@ -15,7 +15,7 @@ public class arraymin {
 <<<<<<< HEAD
         System.out.println("Prueba main error");
 =======
-        System.out.println("prueba miembroB");
+        System.out.println("aaaaaaaaaaaprueba miembroB");
 >>>>>>> desarrollo
     }
 }
