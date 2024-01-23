@@ -12,6 +12,6 @@ public class arraymin {
             }
         }
         System.out.println("El valor mínimo es "+res);
-        System.out.println("Prueba");
+        System.out.println("Prueba desarrollo");
     }
 }
