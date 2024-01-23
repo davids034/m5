@@ -4,13 +4,7 @@ public class arraymin {
         double min = Double.MAX_VALUE;
         double res = 0;
 
-        for (int i = 0; i < reales.length; i++) {
-            System.out.println(reales[i]);
-            if (reales[i] < min) {
-                min = reales[i];
-                res = min;
-            }
-        }
+        
         System.out.println("El valor mínimo es ");
 <<<<<<< HEAD
         System.out.println("Prueba main error");
