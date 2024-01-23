@@ -12,10 +12,7 @@ public class arraymin {
             }
         }
         System.out.println("El valor mínimo es "+res);
-<<<<<<< HEAD
         System.out.println("Prueba main error");
-=======
         System.out.println("aaaaaaaaaaaprueba miembroB");
->>>>>>> desarrollo
     }
 }
